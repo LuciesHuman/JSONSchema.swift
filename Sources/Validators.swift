@@ -443,3 +443,7 @@ func validateURI(_ value:Any) -> ValidationResult {
 
   return .valid
 }
+
+func validateUUID(_ value: Any) -> ValidationResult {
+  return .valid
+}

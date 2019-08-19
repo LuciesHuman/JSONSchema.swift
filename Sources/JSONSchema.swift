@@ -62,6 +62,7 @@ public struct Schema {
       "ipv4": validateIPv4,
       "ipv6": validateIPv6,
       "uri": validateURI,
+      "uuid": validateUUID
     ]
   }
 
